@@ -1,3 +1,5 @@
+from process_stats import load_stats, process_stats
+
 def update_readme():
     stats = load_stats()
     content = process_stats(stats)

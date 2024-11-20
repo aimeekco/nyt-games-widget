@@ -1,24 +1,41 @@
-from process_stats import load_stats, process_stats
+from process_stats import load_stats, generate_graphs, process_stats
 
 def update_readme():
     stats = load_stats()
-    content = process_stats(stats)
+    stats_content = process_stats(stats)
+    generate_graphs(stats)
 
-    # read current README
+    # read the current README file
+    graph_path = "nyt_stats_graph.png"
+    stats_content += f"\n![Solve Times](./{graph_path})\n"
+
+    # update only the stats section
     with open("README.md", "r") as f:
-        readme = f.read()
+        lines = f.readlines()
 
-    # replace placeholder <!-- NYT-STATS --> with the new content
-    updated_readme = readme.replace(
-        "<!-- NYT-STATS -->",
-        content
-    )
+    start_marker = "<!-- START NYT-STATS -->"
+    end_marker = "<!-- END NYT-STATS -->"
 
-    # write updated content back to the README file
+    start_index = None
+    end_index = None
+    for i, line in enumerate(lines):
+        if start_marker in line:
+            start_index = i
+        elif end_marker in line:
+            end_index = i
+
+    if start_index is not None and end_index is not None:
+        lines = lines[:start_index + 1] + [stats_content] + lines[end_index:]
+    else:
+        # if markers not found, add the markers and content to the end of the README
+        lines.append(f"\n{start_marker}\n")
+        lines.append(stats_content)
+        lines.append(f"{end_marker}\n")
+
     with open("README.md", "w") as f:
-        f.write(updated_readme)
+        f.writelines(lines)
 
-    print("README.md updated with the latest stats!")
+    print("README.md updated!")
 
 if __name__ == "__main__":
     update_readme()

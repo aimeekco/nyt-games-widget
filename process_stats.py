@@ -33,16 +33,47 @@ def generate_graphs(stats):
     best_times = [day["best_time"] / 60 for day in stats_by_day]
     avg_times = [day["avg_time"] / 60 for day in stats_by_day]
     latest_times = [day["latest_time"] / 60 for day in stats_by_day]
+    
+    today_date = datetime.now().strftime("%Y-%m-%d")
+    today_index = next(
+        (i for i, day in enumerate(stats_by_day) if day["latest_date"] == today_date),
+        -1
+    )
 
     bar_width = 0.3
     x = np.arange(len(days))
 
     plt.figure(figsize=(8, 5), facecolor="#0d1116")
 
-    bars1 = plt.bar(x - bar_width, best_times, width=bar_width, color="#4CAF50", alpha=0.8, label="best")
-    bars2 = plt.bar(x, latest_times, width=bar_width, color="#2196F3", alpha=0.8, label="today")
+    bars1 = plt.bar(
+        x - (0.5) * bar_width,
+        best_times,
+        width=bar_width,
+        color="#4CAF50",
+        alpha=0.8,
+        label="best time!",
+        edgecolor="none"
+    )
     
-    today_index = days.index("Today") if "Today" in days else -1
+    bars2 = plt.bar(
+        x + (0.5) * bar_width,
+        latest_times,
+        width=bar_width,
+        color="#2196F3",
+        alpha=0.8,
+        label="most recent time",
+        edgecolor="none"
+    )
+    
+    for bar in bars1:
+        bar.set_linewidth(0)
+        bar.set_edgecolor("none")
+        bar.set_capstyle("round")
+    for bar in bars2:
+        bar.set_linewidth(0)
+        bar.set_edgecolor("none")
+        bar.set_capstyle("round")
+    
     if today_index != -1:
         bars2[today_index].set_color("#FF5722")
 
@@ -64,10 +95,17 @@ def generate_graphs(stats):
     plt.gca().yaxis.set_visible(False)
     plt.gca().tick_params(axis='y', which='both', left=False)
     plt.gca().set_facecolor("#0d1116")
+    
+    plt.legend(
+        fontsize=12,
+        loc="upper left",
+        frameon=False,
+        labelcolor="white",
+        facecolor="none"
+    )
 
     plt.tight_layout()
 
-    # Save the graph
     plt.savefig("nyt_stats_graph.png", dpi=300, bbox_inches='tight', facecolor="#0d1116")
     print("Graph saved as nyt_stats_graph.png")
 

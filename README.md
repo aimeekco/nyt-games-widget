@@ -20,4 +20,7 @@ Haven't done the crossword today yet!
 ## Configure GitHub token
 - go into this repository's settings -> actions -> general and change workflow permissions to read and write so the cron job can make commits
 
+## Change repository location in update-stats.yml
+- under 'commit and push changes' change the respository url
+
 i forgot what other things you might need to change -- will update later

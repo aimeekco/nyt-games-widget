@@ -75,7 +75,7 @@ def generate_graphs(stats):
         bar.set_capstyle("round")
     
     if today_index != -1:
-        bars2[today_index].set_color("#FF5722")
+        bars2[today_index].set_color("#9979C1")
 
     for bar, time in zip(bars1, best_times):
         plt.text(bar.get_x() + bar.get_width() / 2, bar.get_height() / 2, f"{time:.1f} min",
@@ -84,8 +84,9 @@ def generate_graphs(stats):
     for bar, time in zip(bars2, latest_times):
         plt.text(bar.get_x() + bar.get_width() / 2, bar.get_height() / 2, f"{time:.1f} min",
                  ha='center', va='center', fontsize=10, color="white", rotation=90)
+        
+    days = [day[:3].lower() for day in days] 
 
-    days = [day[:3].lower() for day in days]
     plt.xticks(x, days, fontsize=12, color="white")
     plt.yticks(fontsize=10)
 

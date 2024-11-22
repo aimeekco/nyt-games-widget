@@ -85,7 +85,8 @@ def generate_graphs(stats):
         plt.text(bar.get_x() + bar.get_width() / 2, bar.get_height() / 2, f"{time:.1f} min",
                  ha='center', va='center', fontsize=10, color="white", rotation=90)
 
-    plt.xticks(x, days, fontsize=12, fontweight='bold', color="white")
+    days = [day[:3].lower() for day in days]
+    plt.xticks(x, days, fontsize=12, color="white")
     plt.yticks(fontsize=10)
 
     plt.gca().spines['top'].set_visible(False)

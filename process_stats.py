@@ -33,12 +33,6 @@ def generate_graphs(stats):
     best_times = [day["best_time"] / 60 for day in stats_by_day]
     avg_times = [day["avg_time"] / 60 for day in stats_by_day]
     latest_times = [day["latest_time"] / 60 for day in stats_by_day]
-    
-    today_date = datetime.now().strftime("%Y-%m-%d")
-    today_index = next(
-        (i for i, day in enumerate(stats_by_day) if day["latest_date"] == today_date),
-        -1
-    )
 
     bar_width = 0.3
     x = np.arange(len(days))
@@ -74,8 +68,6 @@ def generate_graphs(stats):
         bar.set_edgecolor("none")
         bar.set_capstyle("round")
     
-    if today_index != -1:
-        bars2[today_index].set_color("#9979C1")
 
     for bar, time in zip(bars1, best_times):
         plt.text(bar.get_x() + bar.get_width() / 2, bar.get_height() / 2, f"{time:.1f} min",

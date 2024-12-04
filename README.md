@@ -2,9 +2,9 @@
 
 <!-- START NYT-STATS -->
 ## NYT Crossword Stats
-**Puzzles solved:** 87
+**Puzzles solved:** 88
 
-Today's (Tuesday, 2024-12-03) Time: 7.7 minutes
+Today's (Wednesday, 2024-12-04) Time: 13.2 minutes
 
 
 ![Solve Times](./nyt_stats_graph.png)

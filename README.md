@@ -2,7 +2,7 @@
 
 <!-- START NYT-STATS -->
 ## NYT Crossword Stats
-**Puzzles solved:** 130
+**Puzzles solved:** 132
 
 Haven't done the crossword today yet!
 

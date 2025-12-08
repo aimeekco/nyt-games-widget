@@ -2,9 +2,9 @@
 
 <!-- START NYT-STATS -->
 ## NYT Crossword Stats
-**Puzzles solved:** 335
+**Puzzles solved:** 336
 
-Today's (Sunday, 2025-12-07) Time: 16.8 minutes
+Today's (Monday, 2025-12-08) Time: 3.5 minutes
 
 
 ![Solve Times](./nyt_stats_graph.png)

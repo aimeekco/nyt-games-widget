@@ -5,7 +5,7 @@ import json
 # TODO: replace with your stats endpoint
 url = "https://www.nytimes.com/svc/crosswords/v3/221431134/stats-and-streaks.json?date_start=1988-01-01&start_on_monday=true"
 
-# headers to mimic a browser request
+# headers to mimic a browser request   
 headers = {
     "User-Agent": "Mozilla/5.0",
 }

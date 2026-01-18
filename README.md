@@ -2,9 +2,9 @@
 
 <!-- START NYT-STATS -->
 ## NYT Crossword Stats
-**Puzzles solved:** 375
+**Puzzles solved:** 376
 
-Today's (Saturday, 2026-01-17) Time: 10.1 minutes
+Today's (Sunday, 2026-01-18) Time: 19.9 minutes
 
 
 ![Solve Times](./nyt_stats_graph.png)

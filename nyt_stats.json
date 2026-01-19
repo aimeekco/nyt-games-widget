@@ -3,9 +3,9 @@
         "stats": {
             "longest_avg_time": 1326,
             "longest_latest_time": 1191,
-            "puzzles_attempted": 398,
+            "puzzles_attempted": 399,
             "puzzles_solved": 376,
-            "solve_rate": 0.945,
+            "solve_rate": 0.942,
             "stats_by_day": [
                 {
                     "avg_denominator": 81,
@@ -15,7 +15,7 @@
                     "label": "Monday",
                     "latest_date": "2026-01-12",
                     "latest_time": 416,
-                    "this_weeks_time": 416
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 60,
@@ -25,7 +25,7 @@
                     "label": "Tuesday",
                     "latest_date": "2026-01-13",
                     "latest_time": 322,
-                    "this_weeks_time": 322
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 55,
@@ -35,7 +35,7 @@
                     "label": "Wednesday",
                     "latest_date": "2026-01-14",
                     "latest_time": 495,
-                    "this_weeks_time": 495
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 50,
@@ -45,7 +45,7 @@
                     "label": "Thursday",
                     "latest_date": "2026-01-15",
                     "latest_time": 655,
-                    "this_weeks_time": 655
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 42,
@@ -55,7 +55,7 @@
                     "label": "Friday",
                     "latest_date": "2026-01-16",
                     "latest_time": 756,
-                    "this_weeks_time": 756
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 39,
@@ -65,7 +65,7 @@
                     "label": "Saturday",
                     "latest_date": "2026-01-17",
                     "latest_time": 603,
-                    "this_weeks_time": 603
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 49,
@@ -75,13 +75,13 @@
                     "label": "Sunday",
                     "latest_date": "2026-01-18",
                     "latest_time": 1191,
-                    "this_weeks_time": 1191
+                    "this_weeks_time": 0
                 }
             ]
         },
         "streaks": {
             "current_streak": 7,
-            "date_end": "2026-01-18",
+            "date_end": "2026-01-19",
             "date_start": "1988-01-01",
             "dates": [
                 [
@@ -273,7 +273,7 @@
                 },
                 {
                     "length": 12,
-                    "next_date": ""
+                    "next_date": "2026-01-19"
                 },
                 {
                     "length": 12,

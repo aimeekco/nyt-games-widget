@@ -15,7 +15,7 @@
                     "label": "Monday",
                     "latest_date": "2026-01-19",
                     "latest_time": 273,
-                    "this_weeks_time": 273
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 61,
@@ -25,7 +25,7 @@
                     "label": "Tuesday",
                     "latest_date": "2026-01-20",
                     "latest_time": 480,
-                    "this_weeks_time": 480
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 56,
@@ -35,7 +35,7 @@
                     "label": "Wednesday",
                     "latest_date": "2026-01-21",
                     "latest_time": 529,
-                    "this_weeks_time": 529
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 51,
@@ -45,7 +45,7 @@
                     "label": "Thursday",
                     "latest_date": "2026-01-22",
                     "latest_time": 687,
-                    "this_weeks_time": 687
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 43,
@@ -55,7 +55,7 @@
                     "label": "Friday",
                     "latest_date": "2026-01-23",
                     "latest_time": 745,
-                    "this_weeks_time": 745
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 40,
@@ -65,7 +65,7 @@
                     "label": "Saturday",
                     "latest_date": "2026-01-24",
                     "latest_time": 606,
-                    "this_weeks_time": 606
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 50,
@@ -75,13 +75,13 @@
                     "label": "Sunday",
                     "latest_date": "2026-01-25",
                     "latest_time": 1193,
-                    "this_weeks_time": 1193
+                    "this_weeks_time": 0
                 }
             ]
         },
         "streaks": {
             "current_streak": 14,
-            "date_end": "2026-01-25",
+            "date_end": "2026-01-26",
             "date_start": "1988-01-01",
             "dates": [
                 [
@@ -273,7 +273,7 @@
                 },
                 {
                     "length": 13,
-                    "next_date": ""
+                    "next_date": "2026-01-26"
                 },
                 {
                     "length": 13,

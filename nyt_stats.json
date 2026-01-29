@@ -81,7 +81,7 @@
         },
         "streaks": {
             "current_streak": 17,
-            "date_end": "2026-01-28",
+            "date_end": "2026-01-29",
             "date_start": "1988-01-01",
             "dates": [
                 [
@@ -285,7 +285,7 @@
                 },
                 {
                     "length": 14,
-                    "next_date": ""
+                    "next_date": "2026-01-29"
                 },
                 {
                     "length": 6,

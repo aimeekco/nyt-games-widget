@@ -3,8 +3,8 @@
         "stats": {
             "longest_avg_time": 1323,
             "longest_latest_time": 1193,
-            "puzzles_attempted": 408,
-            "puzzles_solved": 386,
+            "puzzles_attempted": 409,
+            "puzzles_solved": 387,
             "solve_rate": 0.946,
             "stats_by_day": [
                 {
@@ -38,14 +38,14 @@
                     "this_weeks_time": 630
                 },
                 {
-                    "avg_denominator": 51,
+                    "avg_denominator": 52,
                     "avg_time": 683,
                     "best_date": "2025-12-11",
                     "best_time": 363,
                     "label": "Thursday",
-                    "latest_date": "2026-01-22",
-                    "latest_time": 687,
-                    "this_weeks_time": 0
+                    "latest_date": "2026-01-29",
+                    "latest_time": 680,
+                    "this_weeks_time": 680
                 },
                 {
                     "avg_denominator": 43,
@@ -80,8 +80,8 @@
             ]
         },
         "streaks": {
-            "current_streak": 17,
-            "date_end": "2026-01-29",
+            "current_streak": 18,
+            "date_end": "2026-01-30",
             "date_start": "1988-01-01",
             "dates": [
                 [
@@ -262,7 +262,7 @@
                 ],
                 [
                     "2026-01-12",
-                    "2026-01-28"
+                    "2026-01-29"
                 ]
             ],
             "longest_streak": 52,
@@ -284,12 +284,12 @@
                     "next_date": ""
                 },
                 {
-                    "length": 14,
-                    "next_date": "2026-01-29"
+                    "length": 15,
+                    "next_date": ""
                 },
                 {
                     "length": 6,
-                    "next_date": ""
+                    "next_date": "2026-01-30"
                 },
                 {
                     "length": 6,

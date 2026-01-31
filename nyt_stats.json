@@ -3,8 +3,8 @@
         "stats": {
             "longest_avg_time": 1323,
             "longest_latest_time": 1193,
-            "puzzles_attempted": 409,
-            "puzzles_solved": 387,
+            "puzzles_attempted": 410,
+            "puzzles_solved": 388,
             "solve_rate": 0.946,
             "stats_by_day": [
                 {
@@ -48,14 +48,14 @@
                     "this_weeks_time": 680
                 },
                 {
-                    "avg_denominator": 43,
-                    "avg_time": 636,
+                    "avg_denominator": 44,
+                    "avg_time": 635,
                     "best_date": "2025-03-28",
                     "best_time": 391,
                     "label": "Friday",
-                    "latest_date": "2026-01-23",
-                    "latest_time": 745,
-                    "this_weeks_time": 0
+                    "latest_date": "2026-01-30",
+                    "latest_time": 585,
+                    "this_weeks_time": 585
                 },
                 {
                     "avg_denominator": 40,
@@ -80,8 +80,8 @@
             ]
         },
         "streaks": {
-            "current_streak": 18,
-            "date_end": "2026-01-30",
+            "current_streak": 19,
+            "date_end": "2026-01-31",
             "date_start": "1988-01-01",
             "dates": [
                 [
@@ -262,7 +262,7 @@
                 ],
                 [
                     "2026-01-12",
-                    "2026-01-29"
+                    "2026-01-30"
                 ]
             ],
             "longest_streak": 52,
@@ -288,12 +288,12 @@
                     "next_date": ""
                 },
                 {
-                    "length": 6,
-                    "next_date": "2026-01-30"
+                    "length": 7,
+                    "next_date": ""
                 },
                 {
                     "length": 6,
-                    "next_date": ""
+                    "next_date": "2026-01-31"
                 }
             ]
         }

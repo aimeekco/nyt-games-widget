@@ -3,9 +3,9 @@
         "stats": {
             "longest_avg_time": 1323,
             "longest_latest_time": 1193,
-            "puzzles_attempted": 410,
-            "puzzles_solved": 388,
-            "solve_rate": 0.946,
+            "puzzles_attempted": 412,
+            "puzzles_solved": 389,
+            "solve_rate": 0.944,
             "stats_by_day": [
                 {
                     "avg_denominator": 83,
@@ -58,14 +58,14 @@
                     "this_weeks_time": 585
                 },
                 {
-                    "avg_denominator": 40,
-                    "avg_time": 681,
+                    "avg_denominator": 41,
+                    "avg_time": 679,
                     "best_date": "2024-12-14",
                     "best_time": 432,
                     "label": "Saturday",
-                    "latest_date": "2026-01-24",
-                    "latest_time": 606,
-                    "this_weeks_time": 0
+                    "latest_date": "2026-01-31",
+                    "latest_time": 576,
+                    "this_weeks_time": 576
                 },
                 {
                     "avg_denominator": 50,
@@ -80,8 +80,8 @@
             ]
         },
         "streaks": {
-            "current_streak": 19,
-            "date_end": "2026-01-31",
+            "current_streak": 20,
+            "date_end": "2026-02-01",
             "date_start": "1988-01-01",
             "dates": [
                 [
@@ -262,14 +262,14 @@
                 ],
                 [
                     "2026-01-12",
-                    "2026-01-30"
+                    "2026-01-31"
                 ]
             ],
             "longest_streak": 52,
             "vertical_streaks": [
                 {
                     "length": 2,
-                    "next_date": ""
+                    "next_date": "2026-02-01"
                 },
                 {
                     "length": 14,
@@ -292,8 +292,8 @@
                     "next_date": ""
                 },
                 {
-                    "length": 6,
-                    "next_date": "2026-01-31"
+                    "length": 7,
+                    "next_date": ""
                 }
             ]
         }

@@ -15,7 +15,7 @@
                     "label": "Monday",
                     "latest_date": "2026-01-26",
                     "latest_time": 253,
-                    "this_weeks_time": 253
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 62,
@@ -25,7 +25,7 @@
                     "label": "Tuesday",
                     "latest_date": "2026-01-27",
                     "latest_time": 376,
-                    "this_weeks_time": 376
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 57,
@@ -35,7 +35,7 @@
                     "label": "Wednesday",
                     "latest_date": "2026-01-28",
                     "latest_time": 630,
-                    "this_weeks_time": 630
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 52,
@@ -45,7 +45,7 @@
                     "label": "Thursday",
                     "latest_date": "2026-01-29",
                     "latest_time": 680,
-                    "this_weeks_time": 680
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 44,
@@ -55,7 +55,7 @@
                     "label": "Friday",
                     "latest_date": "2026-01-30",
                     "latest_time": 585,
-                    "this_weeks_time": 585
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 41,
@@ -65,7 +65,7 @@
                     "label": "Saturday",
                     "latest_date": "2026-01-31",
                     "latest_time": 576,
-                    "this_weeks_time": 576
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 50,
@@ -80,8 +80,8 @@
             ]
         },
         "streaks": {
-            "current_streak": 20,
-            "date_end": "2026-02-01",
+            "current_streak": 0,
+            "date_end": "2026-02-02",
             "date_start": "1988-01-01",
             "dates": [
                 [
@@ -268,12 +268,12 @@
             "longest_streak": 52,
             "vertical_streaks": [
                 {
-                    "length": 2,
-                    "next_date": "2026-02-01"
+                    "length": 0,
+                    "next_date": ""
                 },
                 {
                     "length": 14,
-                    "next_date": ""
+                    "next_date": "2026-02-02"
                 },
                 {
                     "length": 14,

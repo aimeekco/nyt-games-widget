@@ -1,4 +1,4 @@
-from process_stats import load_stats, generate_graphs, process_stats
+from stats_utils import load_stats, generate_graphs, process_stats
 
 def update_readme():
     stats = load_stats()

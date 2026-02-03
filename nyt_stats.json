@@ -1,31 +1,31 @@
 {
     "results": {
         "stats": {
-            "longest_avg_time": 1323,
-            "longest_latest_time": 1193,
-            "puzzles_attempted": 412,
-            "puzzles_solved": 389,
-            "solve_rate": 0.944,
+            "longest_avg_time": 1326,
+            "longest_latest_time": 1470,
+            "puzzles_attempted": 414,
+            "puzzles_solved": 392,
+            "solve_rate": 0.947,
             "stats_by_day": [
                 {
-                    "avg_denominator": 83,
-                    "avg_time": 343,
+                    "avg_denominator": 84,
+                    "avg_time": 342,
                     "best_date": "2025-12-08",
                     "best_time": 208,
                     "label": "Monday",
-                    "latest_date": "2026-01-26",
-                    "latest_time": 253,
-                    "this_weeks_time": 0
+                    "latest_date": "2026-02-02",
+                    "latest_time": 255,
+                    "this_weeks_time": 255
                 },
                 {
-                    "avg_denominator": 62,
-                    "avg_time": 481,
-                    "best_date": "2025-06-17",
-                    "best_time": 298,
+                    "avg_denominator": 63,
+                    "avg_time": 477,
+                    "best_date": "2026-02-03",
+                    "best_time": 215,
                     "label": "Tuesday",
-                    "latest_date": "2026-01-27",
-                    "latest_time": 376,
-                    "this_weeks_time": 0
+                    "latest_date": "2026-02-03",
+                    "latest_time": 215,
+                    "this_weeks_time": 215
                 },
                 {
                     "avg_denominator": 57,
@@ -68,20 +68,20 @@
                     "this_weeks_time": 0
                 },
                 {
-                    "avg_denominator": 50,
-                    "avg_time": 1323,
+                    "avg_denominator": 51,
+                    "avg_time": 1326,
                     "best_date": "2025-07-06",
                     "best_time": 717,
                     "label": "Sunday",
-                    "latest_date": "2026-01-25",
-                    "latest_time": 1193,
+                    "latest_date": "2026-02-01",
+                    "latest_time": 1470,
                     "this_weeks_time": 0
                 }
             ]
         },
         "streaks": {
-            "current_streak": 0,
-            "date_end": "2026-02-02",
+            "current_streak": 23,
+            "date_end": "2026-02-03",
             "date_start": "1988-01-01",
             "dates": [
                 [
@@ -262,21 +262,21 @@
                 ],
                 [
                     "2026-01-12",
-                    "2026-01-31"
+                    "2026-02-03"
                 ]
             ],
             "longest_streak": 52,
             "vertical_streaks": [
                 {
-                    "length": 0,
+                    "length": 3,
                     "next_date": ""
                 },
                 {
-                    "length": 14,
-                    "next_date": "2026-02-02"
+                    "length": 15,
+                    "next_date": ""
                 },
                 {
-                    "length": 14,
+                    "length": 15,
                     "next_date": ""
                 },
                 {

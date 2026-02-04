@@ -2,9 +2,9 @@
 
 <!-- START NYT-STATS -->
 ## NYT Crossword Stats
-**Puzzles solved:** 392
+**Puzzles solved:** 393
 
-Haven't done the crossword today yet!
+Today's (Wednesday, 2026-02-04) Time: 11.5 minutes
 
 
 ![Solve Times](./nyt_stats_graph.png)

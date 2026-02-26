@@ -3,9 +3,9 @@
         "stats": {
             "longest_avg_time": 1327,
             "longest_latest_time": 1457,
-            "puzzles_attempted": 436,
+            "puzzles_attempted": 437,
             "puzzles_solved": 414,
-            "solve_rate": 0.95,
+            "solve_rate": 0.947,
             "stats_by_day": [
                 {
                     "avg_denominator": 87,
@@ -81,7 +81,7 @@
         },
         "streaks": {
             "current_streak": 45,
-            "date_end": "2026-02-25",
+            "date_end": "2026-02-26",
             "date_start": "1988-01-01",
             "dates": [
                 [
@@ -285,7 +285,7 @@
                 },
                 {
                     "length": 18,
-                    "next_date": ""
+                    "next_date": "2026-02-26"
                 },
                 {
                     "length": 10,

@@ -3,9 +3,9 @@
         "stats": {
             "longest_avg_time": 1327,
             "longest_latest_time": 1457,
-            "puzzles_attempted": 438,
+            "puzzles_attempted": 439,
             "puzzles_solved": 416,
-            "solve_rate": 0.95,
+            "solve_rate": 0.948,
             "stats_by_day": [
                 {
                     "avg_denominator": 87,
@@ -80,8 +80,8 @@
             ]
         },
         "streaks": {
-            "current_streak": 47,
-            "date_end": "2026-02-28",
+            "current_streak": 0,
+            "date_end": "2026-03-01",
             "date_start": "1988-01-01",
             "dates": [
                 [
@@ -269,7 +269,7 @@
             "vertical_streaks": [
                 {
                     "length": 6,
-                    "next_date": ""
+                    "next_date": "2026-03-01"
                 },
                 {
                     "length": 18,
@@ -292,8 +292,8 @@
                     "next_date": ""
                 },
                 {
-                    "length": 10,
-                    "next_date": "2026-02-28"
+                    "length": 0,
+                    "next_date": ""
                 }
             ]
         }

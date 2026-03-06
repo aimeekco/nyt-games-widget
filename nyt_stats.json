@@ -3,9 +3,9 @@
         "stats": {
             "longest_avg_time": 1317,
             "longest_latest_time": 922,
-            "puzzles_attempted": 444,
+            "puzzles_attempted": 445,
             "puzzles_solved": 422,
-            "solve_rate": 0.95,
+            "solve_rate": 0.948,
             "stats_by_day": [
                 {
                     "avg_denominator": 88,

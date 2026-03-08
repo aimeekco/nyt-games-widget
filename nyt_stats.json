@@ -15,7 +15,7 @@
                     "label": "Monday",
                     "latest_date": "2026-03-02",
                     "latest_time": 234,
-                    "this_weeks_time": 234
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 67,
@@ -25,7 +25,7 @@
                     "label": "Tuesday",
                     "latest_date": "2026-03-03",
                     "latest_time": 327,
-                    "this_weeks_time": 327
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 62,
@@ -35,7 +35,7 @@
                     "label": "Wednesday",
                     "latest_date": "2026-03-04",
                     "latest_time": 446,
-                    "this_weeks_time": 446
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 57,
@@ -45,7 +45,7 @@
                     "label": "Thursday",
                     "latest_date": "2026-03-05",
                     "latest_time": 511,
-                    "this_weeks_time": 511
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 49,
@@ -55,7 +55,7 @@
                     "label": "Friday",
                     "latest_date": "2026-03-06",
                     "latest_time": 618,
-                    "this_weeks_time": 618
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 45,
@@ -268,12 +268,12 @@
             "longest_streak": 54,
             "vertical_streaks": [
                 {
-                    "length": 7,
-                    "next_date": "2026-03-08"
+                    "length": 0,
+                    "next_date": ""
                 },
                 {
                     "length": 19,
-                    "next_date": ""
+                    "next_date": "2026-03-09"
                 },
                 {
                     "length": 19,

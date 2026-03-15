@@ -15,7 +15,7 @@
                     "label": "Monday",
                     "latest_date": "2026-03-09",
                     "latest_time": 244,
-                    "this_weeks_time": 244
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 68,
@@ -25,7 +25,7 @@
                     "label": "Tuesday",
                     "latest_date": "2026-03-10",
                     "latest_time": 342,
-                    "this_weeks_time": 342
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 63,
@@ -35,7 +35,7 @@
                     "label": "Wednesday",
                     "latest_date": "2026-03-11",
                     "latest_time": 390,
-                    "this_weeks_time": 390
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 58,
@@ -45,7 +45,7 @@
                     "label": "Thursday",
                     "latest_date": "2026-03-12",
                     "latest_time": 468,
-                    "this_weeks_time": 468
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 50,
@@ -55,7 +55,7 @@
                     "label": "Friday",
                     "latest_date": "2026-03-13",
                     "latest_time": 491,
-                    "this_weeks_time": 491
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 47,
@@ -65,7 +65,7 @@
                     "label": "Saturday",
                     "latest_date": "2026-03-14",
                     "latest_time": 411,
-                    "this_weeks_time": 411
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 57,
@@ -75,7 +75,7 @@
                     "label": "Sunday",
                     "latest_date": "2026-03-15",
                     "latest_time": 1038,
-                    "this_weeks_time": 1038
+                    "this_weeks_time": 0
                 }
             ]
         },
@@ -277,7 +277,7 @@
                 },
                 {
                     "length": 20,
-                    "next_date": ""
+                    "next_date": "2026-03-16"
                 },
                 {
                     "length": 20,

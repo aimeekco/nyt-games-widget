@@ -1,11 +1,11 @@
 {
     "results": {
         "stats": {
-            "longest_avg_time": 1302,
-            "longest_latest_time": 1038,
-            "puzzles_attempted": 460,
-            "puzzles_solved": 437,
-            "solve_rate": 0.95,
+            "longest_avg_time": 1298,
+            "longest_latest_time": 1061,
+            "puzzles_attempted": 461,
+            "puzzles_solved": 439,
+            "solve_rate": 0.952,
             "stats_by_day": [
                 {
                     "avg_denominator": 90,
@@ -58,30 +58,30 @@
                     "this_weeks_time": 408
                 },
                 {
-                    "avg_denominator": 47,
-                    "avg_time": 653,
+                    "avg_denominator": 48,
+                    "avg_time": 649,
                     "best_date": "2026-02-07",
                     "best_time": 358,
                     "label": "Saturday",
-                    "latest_date": "2026-03-14",
-                    "latest_time": 411,
-                    "this_weeks_time": 0
+                    "latest_date": "2026-03-21",
+                    "latest_time": 479,
+                    "this_weeks_time": 479
                 },
                 {
-                    "avg_denominator": 57,
-                    "avg_time": 1302,
+                    "avg_denominator": 58,
+                    "avg_time": 1298,
                     "best_date": "2025-07-06",
                     "best_time": 717,
                     "label": "Sunday",
-                    "latest_date": "2026-03-15",
-                    "latest_time": 1038,
-                    "this_weeks_time": 0
+                    "latest_date": "2026-03-22",
+                    "latest_time": 1061,
+                    "this_weeks_time": 1061
                 }
             ]
         },
         "streaks": {
-            "current_streak": 13,
-            "date_end": "2026-03-21",
+            "current_streak": 15,
+            "date_end": "2026-03-22",
             "date_start": "1988-01-01",
             "dates": [
                 [
@@ -266,14 +266,14 @@
                 ],
                 [
                     "2026-03-08",
-                    "2026-03-20"
+                    "2026-03-22"
                 ]
             ],
             "longest_streak": 54,
             "vertical_streaks": [
                 {
-                    "length": 9,
-                    "next_date": "2026-03-22"
+                    "length": 10,
+                    "next_date": ""
                 },
                 {
                     "length": 21,
@@ -296,7 +296,7 @@
                     "next_date": ""
                 },
                 {
-                    "length": 0,
+                    "length": 2,
                     "next_date": ""
                 }
             ]

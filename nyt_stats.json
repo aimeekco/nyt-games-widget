@@ -3,9 +3,9 @@
         "stats": {
             "longest_avg_time": 1298,
             "longest_latest_time": 1285,
-            "puzzles_attempted": 469,
-            "puzzles_solved": 447,
-            "solve_rate": 0.953,
+            "puzzles_attempted": 471,
+            "puzzles_solved": 448,
+            "solve_rate": 0.951,
             "stats_by_day": [
                 {
                     "avg_denominator": 92,
@@ -18,14 +18,14 @@
                     "this_weeks_time": 323
                 },
                 {
-                    "avg_denominator": 70,
+                    "avg_denominator": 71,
                     "avg_time": 463,
                     "best_date": "2026-02-03",
                     "best_time": 215,
                     "label": "Tuesday",
-                    "latest_date": "2026-03-24",
-                    "latest_time": 341,
-                    "this_weeks_time": 0
+                    "latest_date": "2026-03-31",
+                    "latest_time": 408,
+                    "this_weeks_time": 408
                 },
                 {
                     "avg_denominator": 65,
@@ -80,8 +80,8 @@
             ]
         },
         "streaks": {
-            "current_streak": 23,
-            "date_end": "2026-03-31",
+            "current_streak": 24,
+            "date_end": "2026-04-01",
             "date_start": "1988-01-01",
             "dates": [
                 [
@@ -266,7 +266,7 @@
                 ],
                 [
                     "2026-03-08",
-                    "2026-03-30"
+                    "2026-03-31"
                 ]
             ],
             "longest_streak": 54,
@@ -280,12 +280,12 @@
                     "next_date": ""
                 },
                 {
-                    "length": 22,
-                    "next_date": "2026-03-31"
+                    "length": 23,
+                    "next_date": ""
                 },
                 {
                     "length": 16,
-                    "next_date": ""
+                    "next_date": "2026-04-01"
                 },
                 {
                     "length": 23,

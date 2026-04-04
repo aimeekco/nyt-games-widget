@@ -4,8 +4,8 @@
             "longest_avg_time": 1298,
             "longest_latest_time": 1285,
             "puzzles_attempted": 474,
-            "puzzles_solved": 451,
-            "solve_rate": 0.951,
+            "puzzles_solved": 452,
+            "solve_rate": 0.954,
             "stats_by_day": [
                 {
                     "avg_denominator": 92,
@@ -58,14 +58,14 @@
                     "this_weeks_time": 568
                 },
                 {
-                    "avg_denominator": 49,
-                    "avg_time": 648,
+                    "avg_denominator": 50,
+                    "avg_time": 647,
                     "best_date": "2026-02-07",
                     "best_time": 358,
                     "label": "Saturday",
-                    "latest_date": "2026-03-28",
-                    "latest_time": 593,
-                    "this_weeks_time": 0
+                    "latest_date": "2026-04-04",
+                    "latest_time": 589,
+                    "this_weeks_time": 589
                 },
                 {
                     "avg_denominator": 59,
@@ -80,7 +80,7 @@
             ]
         },
         "streaks": {
-            "current_streak": 27,
+            "current_streak": 28,
             "date_end": "2026-04-04",
             "date_start": "1988-01-01",
             "dates": [
@@ -266,14 +266,14 @@
                 ],
                 [
                     "2026-03-08",
-                    "2026-04-03"
+                    "2026-04-04"
                 ]
             ],
             "longest_streak": 54,
             "vertical_streaks": [
                 {
                     "length": 11,
-                    "next_date": ""
+                    "next_date": "2026-04-05"
                 },
                 {
                     "length": 23,
@@ -296,8 +296,8 @@
                     "next_date": ""
                 },
                 {
-                    "length": 3,
-                    "next_date": "2026-04-04"
+                    "length": 4,
+                    "next_date": ""
                 }
             ]
         }

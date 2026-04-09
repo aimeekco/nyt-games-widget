@@ -3,8 +3,8 @@
         "stats": {
             "longest_avg_time": 1299,
             "longest_latest_time": 1360,
-            "puzzles_attempted": 477,
-            "puzzles_solved": 455,
+            "puzzles_attempted": 478,
+            "puzzles_solved": 456,
             "solve_rate": 0.954,
             "stats_by_day": [
                 {
@@ -28,14 +28,14 @@
                     "this_weeks_time": 243
                 },
                 {
-                    "avg_denominator": 66,
+                    "avg_denominator": 67,
                     "avg_time": 582,
                     "best_date": "2024-11-20",
                     "best_time": 303,
                     "label": "Wednesday",
-                    "latest_date": "2026-04-01",
-                    "latest_time": 388,
-                    "this_weeks_time": 0
+                    "latest_date": "2026-04-08",
+                    "latest_time": 551,
+                    "this_weeks_time": 551
                 },
                 {
                     "avg_denominator": 61,
@@ -80,8 +80,8 @@
             ]
         },
         "streaks": {
-            "current_streak": 31,
-            "date_end": "2026-04-08",
+            "current_streak": 32,
+            "date_end": "2026-04-09",
             "date_start": "1988-01-01",
             "dates": [
                 [
@@ -266,7 +266,7 @@
                 ],
                 [
                     "2026-03-08",
-                    "2026-04-07"
+                    "2026-04-08"
                 ]
             ],
             "longest_streak": 54,
@@ -284,12 +284,12 @@
                     "next_date": ""
                 },
                 {
-                    "length": 17,
-                    "next_date": "2026-04-08"
+                    "length": 18,
+                    "next_date": ""
                 },
                 {
                     "length": 24,
-                    "next_date": ""
+                    "next_date": "2026-04-09"
                 },
                 {
                     "length": 16,

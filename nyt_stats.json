@@ -3,8 +3,8 @@
         "stats": {
             "longest_avg_time": 1299,
             "longest_latest_time": 1360,
-            "puzzles_attempted": 478,
-            "puzzles_solved": 456,
+            "puzzles_attempted": 479,
+            "puzzles_solved": 457,
             "solve_rate": 0.954,
             "stats_by_day": [
                 {
@@ -38,14 +38,14 @@
                     "this_weeks_time": 551
                 },
                 {
-                    "avg_denominator": 61,
-                    "avg_time": 671,
+                    "avg_denominator": 62,
+                    "avg_time": 669,
                     "best_date": "2025-12-11",
                     "best_time": 363,
                     "label": "Thursday",
-                    "latest_date": "2026-04-02",
-                    "latest_time": 484,
-                    "this_weeks_time": 0
+                    "latest_date": "2026-04-09",
+                    "latest_time": 589,
+                    "this_weeks_time": 589
                 },
                 {
                     "avg_denominator": 53,
@@ -80,8 +80,8 @@
             ]
         },
         "streaks": {
-            "current_streak": 32,
-            "date_end": "2026-04-09",
+            "current_streak": 33,
+            "date_end": "2026-04-10",
             "date_start": "1988-01-01",
             "dates": [
                 [
@@ -266,7 +266,7 @@
                 ],
                 [
                     "2026-03-08",
-                    "2026-04-08"
+                    "2026-04-09"
                 ]
             ],
             "longest_streak": 54,
@@ -288,12 +288,12 @@
                     "next_date": ""
                 },
                 {
-                    "length": 24,
-                    "next_date": "2026-04-09"
+                    "length": 25,
+                    "next_date": ""
                 },
                 {
                     "length": 16,
-                    "next_date": ""
+                    "next_date": "2026-04-10"
                 },
                 {
                     "length": 4,

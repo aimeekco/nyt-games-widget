@@ -15,7 +15,7 @@
                     "label": "Monday",
                     "latest_date": "2026-04-13",
                     "latest_time": 317,
-                    "this_weeks_time": 317
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 73,
@@ -25,7 +25,7 @@
                     "label": "Tuesday",
                     "latest_date": "2026-04-14",
                     "latest_time": 435,
-                    "this_weeks_time": 435
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 68,
@@ -35,7 +35,7 @@
                     "label": "Wednesday",
                     "latest_date": "2026-04-15",
                     "latest_time": 452,
-                    "this_weeks_time": 452
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 63,
@@ -45,7 +45,7 @@
                     "label": "Thursday",
                     "latest_date": "2026-04-16",
                     "latest_time": 525,
-                    "this_weeks_time": 525
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 55,
@@ -55,7 +55,7 @@
                     "label": "Friday",
                     "latest_date": "2026-04-17",
                     "latest_time": 485,
-                    "this_weeks_time": 485
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 52,
@@ -65,7 +65,7 @@
                     "label": "Saturday",
                     "latest_date": "2026-04-18",
                     "latest_time": 577,
-                    "this_weeks_time": 577
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 61,
@@ -276,12 +276,12 @@
             "longest_streak": 54,
             "vertical_streaks": [
                 {
-                    "length": 13,
-                    "next_date": "2026-04-19"
+                    "length": 0,
+                    "next_date": ""
                 },
                 {
                     "length": 25,
-                    "next_date": ""
+                    "next_date": "2026-04-20"
                 },
                 {
                     "length": 25,

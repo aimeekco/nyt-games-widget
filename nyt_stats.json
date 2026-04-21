@@ -3,29 +3,29 @@
         "stats": {
             "longest_avg_time": 1291,
             "longest_latest_time": 1259,
-            "puzzles_attempted": 489,
-            "puzzles_solved": 467,
+            "puzzles_attempted": 491,
+            "puzzles_solved": 469,
             "solve_rate": 0.955,
             "stats_by_day": [
                 {
-                    "avg_denominator": 94,
+                    "avg_denominator": 95,
                     "avg_time": 336,
                     "best_date": "2025-12-08",
                     "best_time": 208,
                     "label": "Monday",
-                    "latest_date": "2026-04-13",
-                    "latest_time": 317,
-                    "this_weeks_time": 0
+                    "latest_date": "2026-04-20",
+                    "latest_time": 328,
+                    "this_weeks_time": 328
                 },
                 {
-                    "avg_denominator": 73,
+                    "avg_denominator": 74,
                     "avg_time": 459,
                     "best_date": "2026-02-03",
                     "best_time": 215,
                     "label": "Tuesday",
-                    "latest_date": "2026-04-14",
-                    "latest_time": 435,
-                    "this_weeks_time": 0
+                    "latest_date": "2026-04-21",
+                    "latest_time": 432,
+                    "this_weeks_time": 432
                 },
                 {
                     "avg_denominator": 68,
@@ -80,8 +80,8 @@
             ]
         },
         "streaks": {
-            "current_streak": 9,
-            "date_end": "2026-04-20",
+            "current_streak": 11,
+            "date_end": "2026-04-21",
             "date_start": "1988-01-01",
             "dates": [
                 [
@@ -270,7 +270,7 @@
                 ],
                 [
                     "2026-04-11",
-                    "2026-04-19"
+                    "2026-04-21"
                 ]
             ],
             "longest_streak": 54,
@@ -280,11 +280,11 @@
                     "next_date": ""
                 },
                 {
-                    "length": 25,
-                    "next_date": "2026-04-20"
+                    "length": 26,
+                    "next_date": ""
                 },
                 {
-                    "length": 25,
+                    "length": 26,
                     "next_date": ""
                 },
                 {

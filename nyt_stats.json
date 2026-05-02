@@ -280,7 +280,7 @@
             "vertical_streaks": [
                 {
                     "length": 15,
-                    "next_date": ""
+                    "next_date": "2026-05-03"
                 },
                 {
                     "length": 27,
@@ -303,8 +303,8 @@
                     "next_date": ""
                 },
                 {
-                    "length": 7,
-                    "next_date": "2026-05-02"
+                    "length": 0,
+                    "next_date": ""
                 }
             ]
         }

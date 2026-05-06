@@ -3,8 +3,8 @@
         "stats": {
             "longest_avg_time": 1284,
             "longest_latest_time": 1120,
-            "puzzles_attempted": 504,
-            "puzzles_solved": 482,
+            "puzzles_attempted": 505,
+            "puzzles_solved": 483,
             "solve_rate": 0.956,
             "stats_by_day": [
                 {
@@ -18,14 +18,14 @@
                     "this_weeks_time": 243
                 },
                 {
-                    "avg_denominator": 75,
-                    "avg_time": 457,
+                    "avg_denominator": 76,
+                    "avg_time": 455,
                     "best_date": "2026-02-03",
                     "best_time": 215,
                     "label": "Tuesday",
-                    "latest_date": "2026-04-28",
-                    "latest_time": 330,
-                    "this_weeks_time": 0
+                    "latest_date": "2026-05-05",
+                    "latest_time": 305,
+                    "this_weeks_time": 305
                 },
                 {
                     "avg_denominator": 70,
@@ -80,8 +80,8 @@
             ]
         },
         "streaks": {
-            "current_streak": 1,
-            "date_end": "2026-05-05",
+            "current_streak": 2,
+            "date_end": "2026-05-06",
             "date_start": "1988-01-01",
             "dates": [
                 [
@@ -277,7 +277,8 @@
                     "2026-05-02"
                 ],
                 [
-                    "2026-05-04"
+                    "2026-05-04",
+                    "2026-05-05"
                 ]
             ],
             "longest_streak": 54,
@@ -291,12 +292,12 @@
                     "next_date": ""
                 },
                 {
-                    "length": 27,
-                    "next_date": "2026-05-05"
+                    "length": 28,
+                    "next_date": ""
                 },
                 {
                     "length": 21,
-                    "next_date": ""
+                    "next_date": "2026-05-06"
                 },
                 {
                     "length": 0,

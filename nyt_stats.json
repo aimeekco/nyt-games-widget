@@ -80,8 +80,8 @@
             ]
         },
         "streaks": {
-            "current_streak": 2,
-            "date_end": "2026-05-06",
+            "current_streak": 0,
+            "date_end": "2026-05-07",
             "date_start": "1988-01-01",
             "dates": [
                 [
@@ -296,8 +296,8 @@
                     "next_date": ""
                 },
                 {
-                    "length": 21,
-                    "next_date": "2026-05-06"
+                    "length": 0,
+                    "next_date": ""
                 },
                 {
                     "length": 0,

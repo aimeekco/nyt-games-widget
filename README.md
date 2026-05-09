@@ -4,7 +4,7 @@
 ## NYT Crossword Stats
 **Puzzles solved:** 486
 
-Today's (Friday, 2026-05-08) Time: 8.9 minutes
+Haven't done the crossword today yet!
 
 
 ![Solve Times](./nyt_stats_graph.png)

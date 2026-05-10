@@ -15,7 +15,7 @@
                     "label": "Monday",
                     "latest_date": "2026-05-04",
                     "latest_time": 243,
-                    "this_weeks_time": 243
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 76,
@@ -25,7 +25,7 @@
                     "label": "Tuesday",
                     "latest_date": "2026-05-05",
                     "latest_time": 305,
-                    "this_weeks_time": 305
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 71,
@@ -35,7 +35,7 @@
                     "label": "Wednesday",
                     "latest_date": "2026-05-06",
                     "latest_time": 419,
-                    "this_weeks_time": 419
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 66,
@@ -45,7 +45,7 @@
                     "label": "Thursday",
                     "latest_date": "2026-05-07",
                     "latest_time": 422,
-                    "this_weeks_time": 422
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 58,
@@ -55,7 +55,7 @@
                     "label": "Friday",
                     "latest_date": "2026-05-08",
                     "latest_time": 537,
-                    "this_weeks_time": 537
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 54,
@@ -289,7 +289,7 @@
                 },
                 {
                     "length": 28,
-                    "next_date": ""
+                    "next_date": "2026-05-11"
                 },
                 {
                     "length": 28,

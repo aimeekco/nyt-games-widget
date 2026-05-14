@@ -4,8 +4,8 @@
             "longest_avg_time": 1279,
             "longest_latest_time": 1004,
             "puzzles_attempted": 513,
-            "puzzles_solved": 490,
-            "solve_rate": 0.955,
+            "puzzles_solved": 491,
+            "solve_rate": 0.957,
             "stats_by_day": [
                 {
                     "avg_denominator": 98,
@@ -28,14 +28,14 @@
                     "this_weeks_time": 301
                 },
                 {
-                    "avg_denominator": 71,
-                    "avg_time": 575,
+                    "avg_denominator": 72,
+                    "avg_time": 574,
                     "best_date": "2024-11-20",
                     "best_time": 303,
                     "label": "Wednesday",
-                    "latest_date": "2026-05-06",
-                    "latest_time": 419,
-                    "this_weeks_time": 0
+                    "latest_date": "2026-05-13",
+                    "latest_time": 465,
+                    "this_weeks_time": 465
                 },
                 {
                     "avg_denominator": 66,
@@ -80,8 +80,8 @@
             ]
         },
         "streaks": {
-            "current_streak": 2,
-            "date_end": "2026-05-13",
+            "current_streak": 3,
+            "date_end": "2026-05-14",
             "date_start": "1988-01-01",
             "dates": [
                 [
@@ -282,7 +282,7 @@
                 ],
                 [
                     "2026-05-11",
-                    "2026-05-12"
+                    "2026-05-13"
                 ]
             ],
             "longest_streak": 54,
@@ -300,12 +300,12 @@
                     "next_date": ""
                 },
                 {
-                    "length": 22,
-                    "next_date": "2026-05-13"
+                    "length": 23,
+                    "next_date": ""
                 },
                 {
                     "length": 1,
-                    "next_date": ""
+                    "next_date": "2026-05-14"
                 },
                 {
                     "length": 4,

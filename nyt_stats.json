@@ -4,8 +4,8 @@
             "longest_avg_time": 1279,
             "longest_latest_time": 1004,
             "puzzles_attempted": 515,
-            "puzzles_solved": 492,
-            "solve_rate": 0.955,
+            "puzzles_solved": 493,
+            "solve_rate": 0.957,
             "stats_by_day": [
                 {
                     "avg_denominator": 98,
@@ -48,13 +48,13 @@
                     "this_weeks_time": 0
                 },
                 {
-                    "avg_denominator": 58,
-                    "avg_time": 619,
+                    "avg_denominator": 59,
+                    "avg_time": 617,
                     "best_date": "2025-03-28",
                     "best_time": 391,
                     "label": "Friday",
-                    "latest_date": "2026-05-08",
-                    "latest_time": 537,
+                    "latest_date": "2026-05-15",
+                    "latest_time": 474,
                     "this_weeks_time": 0
                 },
                 {

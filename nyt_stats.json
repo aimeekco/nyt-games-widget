@@ -3,19 +3,19 @@
         "stats": {
             "longest_avg_time": 1276,
             "longest_latest_time": 1044,
-            "puzzles_attempted": 522,
-            "puzzles_solved": 500,
+            "puzzles_attempted": 523,
+            "puzzles_solved": 501,
             "solve_rate": 0.958,
             "stats_by_day": [
                 {
-                    "avg_denominator": 99,
-                    "avg_time": 333,
-                    "best_date": "2025-12-08",
-                    "best_time": 208,
+                    "avg_denominator": 100,
+                    "avg_time": 332,
+                    "best_date": "2026-05-25",
+                    "best_time": 207,
                     "label": "Monday",
-                    "latest_date": "2026-05-18",
-                    "latest_time": 250,
-                    "this_weeks_time": 0
+                    "latest_date": "2026-05-25",
+                    "latest_time": 207,
+                    "this_weeks_time": 207
                 },
                 {
                     "avg_denominator": 78,
@@ -80,7 +80,7 @@
             ]
         },
         "streaks": {
-            "current_streak": 1,
+            "current_streak": 2,
             "date_end": "2026-05-25",
             "date_start": "1988-01-01",
             "dates": [
@@ -289,7 +289,8 @@
                     "2026-05-22"
                 ],
                 [
-                    "2026-05-24"
+                    "2026-05-24",
+                    "2026-05-25"
                 ]
             ],
             "longest_streak": 54,
@@ -299,8 +300,8 @@
                     "next_date": ""
                 },
                 {
-                    "length": 30,
-                    "next_date": "2026-05-25"
+                    "length": 31,
+                    "next_date": ""
                 },
                 {
                     "length": 30,

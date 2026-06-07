@@ -15,7 +15,7 @@
                     "label": "Monday",
                     "latest_date": "2026-06-01",
                     "latest_time": 211,
-                    "this_weeks_time": 211
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 80,
@@ -25,7 +25,7 @@
                     "label": "Tuesday",
                     "latest_date": "2026-06-02",
                     "latest_time": 362,
-                    "this_weeks_time": 362
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 75,
@@ -35,7 +35,7 @@
                     "label": "Wednesday",
                     "latest_date": "2026-06-03",
                     "latest_time": 597,
-                    "this_weeks_time": 597
+                    "this_weeks_time": 0
                 },
                 {
                     "avg_denominator": 68,
@@ -305,7 +305,7 @@
                 },
                 {
                     "length": 32,
-                    "next_date": ""
+                    "next_date": "2026-06-08"
                 },
                 {
                     "length": 1,

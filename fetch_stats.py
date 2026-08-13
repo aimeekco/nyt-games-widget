@@ -11,8 +11,11 @@ headers = {
     "User-Agent": "Mozilla/5.0",
 }
 
-if "NYT_COOKIE" in os.environ:
-    headers["Cookie"] = os.environ["NYT_COOKIE"]
+if "NYT_COOKIE" in os.environ and os.environ["NYT_COOKIE"].strip():
+    cookie_val = os.environ["NYT_COOKIE"].strip()
+    if not cookie_val.startswith("NYT-S="):
+        cookie_val = f"NYT-S={cookie_val}"
+    headers["Cookie"] = cookie_val
 
 def fetch_stats():
     if "NYT_COOKIE" not in os.environ:

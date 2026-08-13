@@ -15,6 +15,9 @@ if "NYT_COOKIE" in os.environ:
     headers["Cookie"] = os.environ["NYT_COOKIE"]
 
 def fetch_stats():
+    if "NYT_COOKIE" not in os.environ:
+        print("Warning: NYT_COOKIE environment variable is not set. Authenticated requests may fail.")
+
     # fetch stats from api
     response = requests.get(url, headers=headers)
 
@@ -26,7 +29,9 @@ def fetch_stats():
         print("Stats fetched and saved successfully!")
     else:
         print(f"Failed to fetch stats. Status code: {response.status_code}")
-        raise Exception("Failed to fetch stats")
+        if response.status_code in (401, 403, 404):
+            print("Authentication failed. Please verify NYT_COOKIE and NYT_USER_ID secrets in repository settings.")
+        raise Exception(f"Failed to fetch stats: HTTP {response.status_code}")
 
 if __name__ == "__main__":
     fetch_stats()
